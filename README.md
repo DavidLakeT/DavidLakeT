@@ -1,6 +1,5 @@
 ## Hey, I'm David! 👋   
 I'm a 20 years old software developer from Colombia.
-I am passionate about providing people with tools to enable them to make this a better world.
 
 👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
@@ -33,3 +32,7 @@ while (!goalAchieved()) {
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
 - [@whatdavedoes](https://www.instagram.com/whatdavedoes/) on Instagram.
 - [DavidLake#2575](./) on Discord.
+
+---
+
+I am passionate about creating tools that make people's lives easier and more fulfilling.
