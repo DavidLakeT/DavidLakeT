@@ -3,14 +3,6 @@ I'm a 20 years old software developer from Colombia.
 
 👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
-
-```Java
-while (!goalAchieved()) {
-
-    try();
-}
-```
-
 ## Skills
 - 👨‍💻 Rust, Java, Kotlin, Python, Go.
 - ⚙️ Rocket, Spring, Django.
