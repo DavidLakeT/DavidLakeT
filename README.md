@@ -1,14 +1,14 @@
-```
+## Hey, I'm David! 👋   
+I'm a 20 years old software developer from Colombia.
+
+👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
+
+```Java
 while (!goalAchieved()) {
 
     try();
 }
 ```
-
-## Hey, I'm David! 👋   
-I'm a 20 years old software developer from Colombia.
-
-👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
 ## Skills
 - 👨‍💻 Rust, Java, Kotlin, Python, Go
@@ -22,6 +22,6 @@ I'm a 20 years old software developer from Colombia.
 - Carrying out programming for large software systems using **Go**.
 
 ## Contact
-- [David Cardona N.](https://www.linkedin.com/in/davidlaket/)
+- [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn
 - [@whatdavedoes](https://www.instagram.com/whatdavedoes/) on Instagram
 - [DavidLake#2575](./) on Discord
