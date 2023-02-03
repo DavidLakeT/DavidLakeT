@@ -17,7 +17,7 @@ I'm a 20 years old software developer from Colombia.
 ## A little bit of everything
 - 🌱 I’m currently learning Go (Golang).
 - 💡 Fun fact: Milo 🥛 is my power source.
-- 💬 Talk to me about Minecraft 🎮 and Books 📚
+- 💬 Talk to me about Minecraft 🎮 and Books. 📚
 
 
 ## Contact
