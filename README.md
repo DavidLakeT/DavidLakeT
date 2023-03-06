@@ -8,17 +8,10 @@ I'm a 20 years old software developer from Colombia.
 - ⚙️ Rocket, Spring, Django.
 - 💽 MySQL, SQL, Docker, AWS, Azure.
 
-## Interests
-- Backend development using **Rocket, Spring**.
-- Carrying out programming for large software systems using **Go**.
-- Making for Relational Database Management Systems.
-- Mobile application development using **Kotlin**.
-
 ## A little bit of everything
 - 🌱 I’m currently learning Go (Golang).
 - 💡 Fun fact: Milo 🥛 is my power source.
 - 💬 Talk to me about Minecraft 🎮 and Books. 📚
-
 
 ## Contact
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
