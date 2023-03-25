@@ -4,12 +4,12 @@ I'm a 20 years old software developer from Colombia.
 👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
 ## Skills
-- 👨‍💻 Rust, Java, Kotlin, Python, Go (learning).
-- ⚙️ Rocket, Spring, Django.
+- 👨‍💻 Rust, Java, Kotlin, Python, Go.
+- ⚙️ Rocket, Spring, Django, Fiber.
 - 💽 MySQL, SQL, Docker, AWS, Azure.
 
 ## A little bit of everything
-- 🌱 I’m currently learning Go (Golang).
+- 🌱 I’m currently learning about Terraform.
 - 💡 Fun fact: Milo 🥛 is my power source.
 - 💬 Talk to me about Minecraft 🎮 and Books. 📚
 
