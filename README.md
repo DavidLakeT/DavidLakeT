@@ -6,7 +6,7 @@ I'm a 20 years old software developer from Colombia.
 ## Skills
 - 👨‍💻 Rust, Java, Kotlin, Python, Go.
 - ⚙️ Rocket, Spring, Django, Fiber.
-- 💽 MySQL, SQL, Docker, AWS, Azure.
+- 💽 MySQL, SQL, Docker, AWS, Azure, PostgreSQL.
 
 ## A little bit of everything
 - 🌱 I’m currently learning about Terraform.
@@ -16,7 +16,7 @@ I'm a 20 years old software developer from Colombia.
 ## Contact
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
 - [@whatdavedoes](https://www.instagram.com/whatdavedoes/) on Instagram.
-- [DavidLake#2575](./) on Discord.
+- [DavidLake#2575](http://discordapp.com/users/717398015656198294/) on Discord.
 
 ---
 
