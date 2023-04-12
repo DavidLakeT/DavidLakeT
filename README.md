@@ -20,4 +20,4 @@ I'm a 20 years old software developer from Colombia.
 
 ---
 
-I am passionate about creating tools that make people's lives easier and more fulfilling.
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
