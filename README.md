@@ -6,6 +6,7 @@ I'm a 20 years old software developer from Colombia.
 ## Skills
 - 👨‍💻 Rust, Java, Kotlin, Python, Go.
 - ⚙️ Rocket, Spring, Django, Fiber.
+- 📚 Pandas, Scikit-learn, Tokio.
 - 💽 MySQL, SQL, Docker, AWS, Azure, PostgreSQL.
 
 ## A little bit of everything
