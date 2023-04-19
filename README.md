@@ -12,7 +12,7 @@ I'm a 20 years old software developer from Colombia.
 ## A little bit of everything
 - 🌱 I’m currently learning about Terraform.
 - 💡 Fun fact: Milo 🥛 is my power source.
-- 💬 Talk to me about Minecraft 🎮 and Books. 📚
+- 💬 Talk to me about Books. 📚
 
 ## Contact
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
