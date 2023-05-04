@@ -10,7 +10,7 @@ I'm a 20 years old software developer from Colombia.
 - ⚙️ MySQL, SQL, Docker, AWS, Azure, PostgreSQL.
 
 ## A little bit of everything
-- 🌱 I’m currently learning about Terraform.
+- 🌱 I’m currently learning about Terraform and Material UI.
 - 💡 Fun fact: Milo 🥛 is my power source.
 - 💬 Talk to me about Books. 📚
 
