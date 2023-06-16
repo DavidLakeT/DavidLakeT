@@ -7,7 +7,7 @@ I'm a 20 years old software developer from Colombia.
 - 👨‍💻 Rust, Java, Kotlin, Python, Go, Dart.
 - 🧩 Rocket, Spring, Django, Fiber, Gin.
 - 📚 Pandas, Scikit-learn, Tokio.
-- ⚙️ MySQL, SQL, Docker, AWS, Azure, PostgreSQL.
+- ⚙️ MySQL, Docker, AWS, Azure DevOps, PostgreSQL.
 
 ## A little bit of everything
 - 🌱 I’m currently learning about Serenity (Discord) and Webhooks.
