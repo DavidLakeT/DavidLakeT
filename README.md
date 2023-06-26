@@ -10,7 +10,7 @@ I'm a 20 years old software developer from Colombia.
 - ⚙️ MySQL, Docker, AWS, Azure DevOps, PostgreSQL.
 
 ## A little bit of everything
-- 🌱 I’m currently learning about Serenity (Discord) and Webhooks.
+- 🌱 I’m currently learning about Redis.
 - 💡 Fun fact: Milo 🥛 is my power source.
 - 💬 Talk to me about Books. 📚
 
