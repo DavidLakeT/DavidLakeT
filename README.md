@@ -10,8 +10,8 @@ I'm a 21 years old software developer from Colombia.
 - ⚙️ MySQL, Docker, AWS, Azure DevOps, PostgreSQL, Redis.
 
 ## A little bit of everything
-- 🌱 I’m currently learning about Blockchain.
-- 💡 I'm interested in working in Web3 industry.
+- 🌱 I’m currently learning about Cybersecurity.
+- 💡 I'm interested in building secure and reliable software.
 - 💬 Talk to me about books. 📚
 
 ## Contact
