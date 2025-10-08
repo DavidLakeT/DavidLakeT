@@ -1,5 +1,5 @@
 ## Hey, I'm David! 👋   
-I'm a 21 years old software developer from Colombia.
+I'm a 23 years old software developer from Colombia.
 
 👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
@@ -10,13 +10,13 @@ I'm a 21 years old software developer from Colombia.
 - ⚙️ MySQL, Docker, AWS, Azure DevOps, PostgreSQL, Redis.
 
 ## A little bit of everything
-- 🌱 I’m currently learning about Cybersecurity.
+- 🌱 I’m currently learning about Quantitative Trading.
 - 💡 I'm interested in building secure and reliable software.
 - 💬 Talk to me about books. 📚
 
 ## Contact
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
-- [@whatdavedoes](https://www.instagram.com/whatdavedoes/) on Instagram.
+- [@whatdavedoes](https://www.instagram.com/inventive.talent/) on Instagram.
 - [DavidLake#2575](http://discordapp.com/users/717398015656198294/) on Discord.
 
 ---
