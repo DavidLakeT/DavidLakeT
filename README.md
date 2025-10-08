@@ -4,10 +4,10 @@ I'm a 23 years old software developer from Colombia.
 👥 I have a passion for learning and sharing my knowledge with others in a way that's as human as possible.
 
 ## Skills
-- 👨‍💻 Rust, Java, Kotlin, Python, Go.
-- 🧩 Rocket, Spring, Django, Fiber, Gin.
+- 👨‍💻 Go, Java, Python, Rust.
+- 🧩 Gin, Spring, Django, Rocket.
 - 📚 Pandas, Scikit-learn, Tokio.
-- ⚙️ MySQL, Docker, AWS, Azure DevOps, PostgreSQL, Redis.
+- ⚙️ AWS, GCP, Docker, PostgreSQL, Redis.
 
 ## A little bit of everything
 - 🌱 I’m currently learning about Quantitative Trading.
@@ -16,7 +16,7 @@ I'm a 23 years old software developer from Colombia.
 
 ## Contact
 - [David Cardona](https://www.linkedin.com/in/davidlaket/) on LinkedIn.
-- [@whatdavedoes](https://www.instagram.com/inventive.talent/) on Instagram.
+- [@inventive.talent](https://www.instagram.com/inventive.talent/) on Instagram.
 - [DavidLake#2575](http://discordapp.com/users/717398015656198294/) on Discord.
 
 ---
